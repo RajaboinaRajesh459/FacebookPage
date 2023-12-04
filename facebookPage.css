@@ -1,0 +1,236 @@
+body{
+    background-color: gainsboro;
+}
+#Top a{
+    display: inline-block;
+    text-decoration: none;
+    color:black;
+    margin-top: 10px;
+    margin-left: 3px;
+    padding: 5px; 
+    
+}
+#Top{
+    background-color: beige;
+    height: 40px;
+    position:fixed;
+    z-index: 1;
+}
+img.cover{
+    margin-top: 3px;
+    padding-top: 4px;
+}
+img.dp{
+    border-radius: 150px;
+    display: inline;
+    margin-left: 10px;
+    position: relative;
+    left: 70px;
+    bottom: 150px;
+}
+h1{
+    color: rgba(8, 8, 8,0.7);
+    margin-left: 400px;
+    word-spacing: 3px;
+    position: relative;
+    bottom: 420px;
+}
+p{
+    color: rgb(162, 0, 255);
+    margin-left: 405px;
+    position: relative;
+   bottom: 430px;
+}
+button{
+    padding: 8px 8px;
+    float: right;
+   margin: 3px;
+   position: relative;
+   bottom:470px ;
+   background-color: azure;
+   color: brown;
+   border: 2px solid paleturquoise;
+   cursor: pointer;
+
+}
+#id a{
+    display: inline-block;
+    text-decoration: none;
+    color:aquamarine;
+    margin-top: 5px;
+    margin-left: 3px;
+    padding: 5px; 
+    background-color: blueviolet;
+
+}
+#id{
+    height: 40px;
+    position: relative;
+    bottom: 400px;
+    left: 380px;
+}
+Aside{
+    height: 100vh;
+    width: 350px;
+    position: relative;
+    bottom: 200px;
+    display: inline;
+    margin-left: 50px;
+    float: left;
+    justify-content: space-between;
+    flex-direction: column;
+    background-color: floralwhite;
+}
+Aside b{
+    color: brown;   
+}
+b.bold{
+    position: relative;
+    bottom: 25px;
+}
+Aside input {
+    padding: 10px 10px;
+    color: black;
+    background-color: cornsilk;
+}
+input.invite{
+    padding: 5px 5px;
+    color: black;
+    background-color: blue;
+    margin-left: 200px;
+    position: relative;
+    bottom: 25px;
+}
+img.friends{
+    border: solid coral;
+    border-radius: 25px;
+    word-spacing: 3px;
+}
+i{
+    color: blueviolet;
+    text-align: justify;
+}
+Aside a{
+    text-decoration: none;
+    color: rgb(13, 13, 160);
+}
+Aside h3{
+    color: darkcyan;
+    text-decoration: underline;
+}
+Aside h4{
+    color: coral;
+    text-align: justify;
+    background-color:lightpink ;
+}
+section#Media{
+    margin: 10px;
+    position: relative; 
+    bottom: 400px;
+    margin-left: 450px;
+    
+}
+img.status{
+    border-radius: 25px ; 
+   
+}
+b#st{
+    position: relative;
+    bottom: 25px;
+    color: blue;
+
+}
+img.gallery{
+    border-radius: 25px ;  
+}
+a{
+    position: relative;
+    bottom: 25px;
+    color: rgb(0, 145, 255);
+    text-decoration: none;
+
+}
+img.events{
+    border-radius: 25px ;  
+}
+b#ev{
+    position: relative;
+    bottom: 25px;
+    color: green;
+    
+
+}
+section p{
+    position: relative;
+    bottom: 400px;
+    color:black;
+    background-color: aliceblue;
+    text-align: center;
+    height: 20px;
+    text-decoration-thickness: bold;
+}
+section h3{
+    color: rgb(22, 165, 212);
+    background-color: aliceblue;
+    position: relative;
+    bottom: 400px;
+    margin-left:405px ;
+    text-align: center;
+}
+section b#dev{
+    color: darkslateblue;
+    position: relative;
+    bottom: 400px;
+    margin-left: 150px;
+   
+}
+section iframe{
+    height: 500px;
+    width: 400px;
+    position: relative;
+    bottom: 380px;
+    left: 180px;
+}
+section h1{
+    color: blue;
+    background-color: whitesmoke;
+    text-align: center;
+}
+b.bold1{
+    color: blue;
+    position: relative;
+    bottom: 600px;
+    margin-left: 250px;
+    background-color: wheat;
+}
+b.bold2{
+    color: blueviolet;
+    position: relative;
+    bottom: 600px;
+    margin-left: 250px;
+    background-color: wheat;
+}
+img.Post1{
+   position: relative;
+   bottom: 350px;
+   left: 400px;
+   border-radius: 100px;
+    
+}
+img.Post2{
+    position: relative;
+    bottom: 350px;
+    left: 400px;
+    border-radius: 100px;
+     
+ }
+ video.Post3{
+    border-radius: 150px;
+    position: relative;
+    bottom: 200px;
+    left: 500px;
+ }
+ 
+
+
+
